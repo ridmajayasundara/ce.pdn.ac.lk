@@ -279,7 +279,7 @@ navbar_active: "Home"
                             </div>
                             <p class="fs-5 mb-4">{{ testimony.testimony }}</p>
                             <div class="d-flex align-items-center">
-                                <img class="flex-shrink-0" src="{{ testimony.image }}" alt="{{ testimony.alt }}">
+                                <img class="flex-shrink-0" src="{{ testimony.image | relative_url }}" alt="{{ testimony.alt }}">
                                 <div class="ps-3">
                                     <h5 class="mb-1">{{ testimony.name }}</h5>
                                     <span class="text-primary">{{ testimony.current_affiliation }}</span>

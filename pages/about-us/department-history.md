@@ -5,7 +5,7 @@ permalink: /department-history/
 navbar_active: About Us
 ---
 
-### 1895
+### 1995
 ##### Department of Computer Sciences
 
 The Department of Computer Engineering was established in the Faculty of Engineering in Peradeniya in 1985. Although it is the youngest department in the Faculty, it is the oldest Computer Engineering Department to be established in the University system of the country. The main function of the department initially was to conduct programming courses to the students in all disciplines of the Faculty. Over the years the department has developed into a fully-fledged department and it now offers several courses in Computer Engineering to the students.
@@ -40,11 +40,6 @@ Established a fully equipped industry control systems lab funded by Schneider El
 ### 2017
 #### Cambio Wearable Computing Lab
 A wearable computing lab funded by Cambio Software Engineering. This lab is equipped with modern high-end wearable computing devices such as  OpenBCI boards, Human-to-Human Interfacing boards and Heart and Brain shields. More information about this facility can be found in official Cambio Wearable Computing webpage under the Facilities.
-
-### 2019
-#### New Computer Engineering Building
-The new building is equipped with modern lab facilities such as a new computing lab, robotics research facility, PCB printing unit, 3D printing facility and new computer networking lab. furthermore, this building will have new student project areas and modern conference rooms.
-
 ---
 
 ### Past Department Heads
